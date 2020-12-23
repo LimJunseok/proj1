@@ -13,4 +13,18 @@ $(function(){
       slidesToShow: 3,
       slidesToScroll: 1
     });
+    $(".regular1").slick({
+      dots: false,
+      infinite: true,
+      slidesToShow: 4,
+      slidesToScroll: 1
+    });
+    $("#top_icon3").click(function(){
+      $("#nav_pop").fadeIn(500)
+    })
+    $(".nav_close").click(function(){
+      $("#nav_pop").fadeOut(300)
+    })
+
+
 })
