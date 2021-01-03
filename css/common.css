@@ -122,19 +122,16 @@ position: relative; width: 0px; display: block; transition: 0.5s;}
       margin-top: 4px;}
 
 
-
-
-
 #header #logo{float: left; margin-top:10px;}
 #header #nav4{float: right; width: 925px;}
 
 #header #top_icon > #top_icon3{width: 70px;height: 73px; display: block;}
       
 /****푸터**/
-#footer{margin-top: 110px; background-color: black;}
-#footer .booer{background-color: gray; height:50px;}
-#footer .foo_le{float: left;}
-#footer 
-#
+#footer{margin-top: 110px; margin-bottom: 100px;}
+#footer .foot_color{background-color: rgb(109, 109, 109); width: 100%; height: 70px;}
 
+#footer .foot_le{float: left;margin-right: 200px;}
+#footer .foot_ri{margin-top: 20px; display: block;}
+#footer .foot_bo{margin-top:20px;clear: both;}
 
